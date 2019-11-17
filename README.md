@@ -1,5 +1,5 @@
 ### CHBungeeCord
-#####*BungeeCord Procs for CommandHelper*
+##### *BungeeCord Procs for CommandHelper*
 
 |_GetIP()
 |-
